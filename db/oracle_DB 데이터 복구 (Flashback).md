@@ -1,5 +1,4 @@
-
-## Oracle/Tibero Flashback feature
+# Oracle/Tibero Flashback feature
 
 데이터베이스를 이용하다보면 실수로 데이터를 삭제하거나, 잘못 업데이트를 하는 경우가 있습니다.
 commit을 하기 전이라면 상관이 없습니다.
